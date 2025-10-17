@@ -1,4 +1,4 @@
-![PsychionalEngineLogo](docs/img/PsychEngineLogoTweak.png)
+![PsychionalEngineLogo](docs/img/refunkedlogo.png)
 
 Engine originally used on FNF Refunked (WIP), intended to be a new version of pysch with some new features, mainly for FNFR.
 
