@@ -1,10 +1,10 @@
 ![PsychionalEngineLogo](docs/img/PsychEngineLogoTweak.png)
 
-Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
+Engine originally used on FNF Refunked (WIP), intended to be a new version of pysch with some new features, mainly for FNFR.
 
 ## Installation:
 
-Refer to [the Build Instructions](/docs/BUILDING.md)
+Same as pysch.
 
 ## Customization:
 
@@ -24,7 +24,7 @@ There you can learn how to use the 212 PlayState funcions in your mod!
 ## Credits:
 * Shadow Mario - Main Programmer and Head of Psych Engine.
 * Riveren - Main Artist/Animator of Psych Engine.
-
+* TGOTI - The person making refunked engine.
 ### Special Thanks
 * bbpanzu - Ex-Team Member (Programmer).
 * crowplexus - HScript Iris, Input System v3, and Other PRs.
@@ -116,7 +116,6 @@ There you can learn how to use the 212 PlayState funcions in your mod!
 ![Options](docs/img/Options.png)
 
 ## Other gameplay features:
-* When the enemy hits a note, their strum note also glows.
 * Lag doesn't impact the camera movement and player icon scaling anymore.
 * Some stuff based on Week 7's changes has been put in (Background colors on Freeplay, Note splashes)
 * You can reset your Score on Freeplay/Story Mode by pressing Reset button.
